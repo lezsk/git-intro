@@ -1,4 +1,5 @@
 /*!
+    \we add this linee
     \file  readme.txt
     \brief description of the ADC regular channel with DMA
 
